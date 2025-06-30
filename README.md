@@ -26,8 +26,8 @@ Proyek ini adalah aplikasi web sederhana menggunakan **Streamlit** yang memungki
 1. Clone repository ini
 
 ```bash
-git clone https://github.com/username/klasifikasi-plat-streamlit.git
-cd klasifikasi-plat-streamlit
+git clone https://github.com/Jetgar/UAS-CV.git
+cd UAS-CV
 ```
 
 
@@ -84,5 +84,5 @@ streamlit run app.py
 
 Jika ada pertanyaan, silakan hubungi:
 
-- 📧 Email: [isaiantmaulana2004@example.com](mailto:isaiantmaulana2004@example.com)
-- 🧑 GitHub: [@isaaja](https://github.com/isaaja)
+- 📧 Email: [111202214316@mhs.dinus.ac.id](mailto:111202214316@mhs.dinus.ac.id)
+- 🧑 GitHub: [@Jetgar](https://github.com/Jetgar)
